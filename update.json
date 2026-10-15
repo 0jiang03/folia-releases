@@ -1,7 +1,7 @@
 {
-  "version": "0.7.19.3",
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v30/Folia-v0.7.19.3-v30-.apk",
+  "version": "0.7.19.4",
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v31/Folia-v0.7.19.4-v31.apk",
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "notes": "Folia 定制版 v0.7.19.3（v30 仓库链接版）——图标/群号/动画/锁屏歌词定制，更新源指向定制版",
-  "size": 16008313
+  "notes": "Folia 定制版 v0.7.19.4（v31）——升级自 0.7.19.3，含全部定制",
+  "size": 16018685
 }
