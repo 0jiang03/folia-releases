@@ -1,7 +1,7 @@
 {
-  "version": "0.7.19.4",
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v31.2/Folia-v0.7.19.4-v31.2-.apk",
+  "version": "0.7.20",
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v32/Folia-v0.7.20-v32.apk",
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "notes": "Folia 定制版 v0.7.19.4（v31.2 换源版）——清单多源 + .apk 校验自动换源",
+  "notes": "Folia 定制版 v0.7.20（v32）——最新大版本，含全部定制",
   "size": 16018685
 }
