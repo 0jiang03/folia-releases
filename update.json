@@ -1,7 +1,7 @@
 {
-  "version": "0.7.20.1",
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v33/Folia-v0.7.20.1-v33.apk",
+  "version": "0.7.20.2",
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v34/Folia-v0.7.20.2-v34.apk",
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "notes": "Folia 定制版 v0.7.20.1（v33）——同步作者最新版，群号/图标/更新源全部定制",
+  "notes": "Folia 定制版 v0.7.20.2（v34）——同步作者 10-17 更新（AI 主题页签/歌名模糊匹配/电台合并），群号/图标/更新源全部定制",
   "size": 16777216
 }
