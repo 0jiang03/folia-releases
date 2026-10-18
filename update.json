@@ -2,6 +2,6 @@
   "version": "0.7.20.3",
   "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v35/Folia-v0.7.20.3-v35.apk",
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "notes": "Folia 定制版 v0.7.20.3（v35）——修复汽水音乐登录后无内容（cookie 会话同步）；修正 versionCode 与更换黑色玻璃质感新图标；同步作者最新上游；群号/更新源全部定制",
+  "notes": "Folia 定制版 v0.7.20.3（v35）——修复汽水音乐登录后无内容（cookie 会话同步）；更换黑色玻璃质感新图标；原签名链无缝覆盖更新；同步作者最新上游；群号/更新源全部定制",
   "size": 30327228
 }
