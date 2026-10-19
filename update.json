@@ -1,7 +1,7 @@
 {
-  "version": "0.7.21.2",
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v39/Folia-v0.7.21.2-v39.apk",
+  "version": "0.7.21.3",
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v40/Folia-v0.7.21.3-v40.apk",
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "notes": "Folia 定制版 v0.7.21.2（v39）——汽水登录黑屏根治：主 WebView 渲染进程崩溃自动恢复 + 签名页启动错峰预建；原签名覆盖更新",
-  "size": 30908411
+  "notes": "Folia 定制版 v0.7.21.3（v40）——汽水登录黑屏架构级修复：签名页从隐藏 WebView 搬进主 WebView 的隐藏 iframe，彻底消除双 WebView 渲染冲突；原签名覆盖更新",
+  "size": 30908223
 }
