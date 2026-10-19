@@ -1,7 +1,7 @@
 {
-  "version": "0.7.21.5",
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v42/Folia-v0.7.21.5-v42.apk",
+  "version": "0.7.21",
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v37/Folia-v0.7.21-v37.apk",
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "notes": "Folia 定制版 v0.7.21.5（v42）——登录二维码转圈修复：签名 iframe 改为懒加载（启动不预建，点汽水登录时才挂载），主线程不再被占死，各平台登录正常；含 v0.7.21.4 汽水内容签名修复；原签名覆盖更新",
-  "size": 30908123
+  "notes": "Folia 定制版 v0.7.21（同步 MM 官方大更新）：修复汽水音乐登录、全新 UI、性能优化。已回滚到此版本。",
+  "size": 30908091
 }
