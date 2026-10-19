@@ -1,7 +1,7 @@
 {
-  "version": "0.7.21",
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v37/Folia-v0.7.21-v37.apk",
+  "version": "0.7.21.1",
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v38/Folia-v0.7.21.1-v38.apk",
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "notes": "Folia 定制版 v0.7.21（v37）——同步 MM 大更新（219 提交：Spotify/YTM 插件、HDR 投影 UI、AI 主题页签、歌名模糊匹配）；汽水音乐登录修复（cookie 双向同步+登录入口开启）；自适应图标；原签名覆盖更新；作者链接 0jiang03/folia-releases",
-  "size": 30908091
+  "notes": "Folia 定制版 v0.7.21.1（v38）——修复汽水音乐登录黑屏：隐藏 WebView 隐藏方式重做（不再 alpha=0）、渲染进程崩溃自动恢复、二次验证半屏化；原签名覆盖更新",
+  "size": 30908411
 }
