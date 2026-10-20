@@ -1,7 +1,7 @@
 {
   "version": "0.7.21.1",
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v38/Folia-v0.7.21.1-vc702311.apk",
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v39/Folia-v0.7.21.1-vc702312.apk",
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "notes": "Folia 定制版 v0.7.21.1（同步 MM 18 个修复提交）：播放假播/拉不起来修复、登录中文昵称、歌单「全部」、登录窗口「全部」列、两个开关找回、壁纸与可视化多项修复；定制保留汽水音乐登录+内容通道修复。",
-  "size": 30920108
+  "notes": "Folia 同步版 v0.7.21.1（同步上游 44193e58，2026-10-20）：补回「启动后直接进入播放界面」（安卓不再被平台标记藏掉）；修复网易云探索页带登录 cookie 仍读空、探索页读不出时不再整页空着。本版为纯上游同步版（不含额外汽水定制），沿用 0jiang03 签名与三源更新通道。",
+  "size": 30917516
 }
