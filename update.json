@@ -1,7 +1,7 @@
 {
-  "version": "0.7.21.10",
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v38/Folia-v0.7.21.10-vc702310.apk",
+  "version": "0.7.21.1",
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v38/Folia-v0.7.21.1-vc702311.apk",
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "notes": "Folia 定制版 v0.7.21.10（同步 MM 18 个修复提交）：播放假播/拉不起来修复、登录中文昵称、歌单「全部」、登录窗口「全部」列、两个开关找回、壁纸与可视化多项修复；定制保留汽水音乐登录+内容通道修复。",
+  "notes": "Folia 定制版 v0.7.21.1（同步 MM 18 个修复提交）：播放假播/拉不起来修复、登录中文昵称、歌单「全部」、登录窗口「全部」列、两个开关找回、壁纸与可视化多项修复；定制保留汽水音乐登录+内容通道修复。",
   "size": 30920108
 }
