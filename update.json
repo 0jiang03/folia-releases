@@ -2,6 +2,6 @@
   "version": "0.7.21.2",
   "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v40/Folia-v0.7.21.2-vc702313.apk",
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "notes": "Folia 同步版 v0.7.21.2（同步上游 6176f05e，2026-10-22，69 个提交）：汽水音乐协议层整体换成车机协议（登录后能拿到数据）、歌单不再置灰/曲目数不再恒0/重启后账号保住、受保护曲子不再只剩试听；网易云修好 weapi RSA 模数（专辑/探索不再空页）；酷狗歌词解析、波点无 window 崩溃修复；AI 高亮色与随机动画开关等。纯上游同步版，沿用 0jiang03 签名与三源更新通道。",
+  "notes": "Folia 同步版 v0.7.21.2（同步上游 6176f05e，2026-10-22，69 个提交）：汽水音乐协议层整体换成车机协议（登录后能拿到数据）、歌单不再置灰/曲目数不再恒0/重启后账号保住、受保护曲子不再只剩试听；网易云修好 weapi RSA 模数（专辑/探索不再空页）；酷狗歌词解析、波点无 window 崩溃修复；AI 高亮色与随机动画开关等。纯上游同步版，沿用 0jiang03 签名与三源更新通道。 ",
   "size": 30772622
 }
