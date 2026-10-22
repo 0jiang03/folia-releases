@@ -1,7 +1,7 @@
 {
-  "version": "0.7.21.1",
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v39/Folia-v0.7.21.1-vc702312.apk",
+  "version": "0.7.21.2",
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v40/Folia-v0.7.21.2-vc702313.apk",
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "notes": "Folia 同步版 v0.7.21.1（同步上游 44193e58，2026-10-20）：补回「启动后直接进入播放界面」（安卓不再被平台标记藏掉）；修复网易云探索页带登录 cookie 仍读空、探索页读不出时不再整页空着。本版为纯上游同步版（不含额外汽水定制），沿用 0jiang03 签名与三源更新通道。",
-  "size": 30917516
+  "notes": "Folia 同步版 v0.7.21.2（同步上游 6176f05e，2026-10-22，69 个提交）：汽水音乐协议层整体换成车机协议（登录后能拿到数据）、歌单不再置灰/曲目数不再恒0/重启后账号保住、受保护曲子不再只剩试听；网易云修好 weapi RSA 模数（专辑/探索不再空页）；酷狗歌词解析、波点无 window 崩溃修复；AI 高亮色与随机动画开关等。纯上游同步版，沿用 0jiang03 签名与三源更新通道。",
+  "size": 30772622
 }
