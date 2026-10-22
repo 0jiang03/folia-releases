@@ -1,11 +1,11 @@
 {
   "version": "0.7.21.2",
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v41/Folia-v0.7.21.2-vc702314.apk",
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v42/Folia-v0.7.21.2-vc702315.apk",
   "download_mirrors": [
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/custom-v41/Folia-v0.7.21.2-vc702314.apk",
-    "https://ghproxy.net/https://github.com/0jiang03/folia-releases/releases/download/custom-v41/Folia-v0.7.21.2-vc702314.apk"
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/custom-v42/Folia-v0.7.21.2-vc702315.apk",
+    "https://ghproxy.net/https://github.com/0jiang03/folia-releases/releases/download/custom-v42/Folia-v0.7.21.2-vc702315.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "notes": "Folia 同步版 v0.7.21.2（同步上游 6176f05e，2026-10-22，69 个提交）：汽水音乐协议层整体换成车机协议（登录后能拿到数据）、歌单不再置灰/曲目数不再恒0/重启后账号保住、受保护曲子不再只剩试听；网易云修好 weapi RSA 模数（专辑/探索不再空页）；酷狗歌词解析、波点无 window 崩溃修复；AI 高亮色与随机动画开关等。v41 起更新包下载支持 GitHub 直链 → ghfast → ghproxy 多镜像自动切换，国内网络下载更稳。纯上游同步版，沿用 0jiang03 签名与三源更新通道。",
-  "size": 30772726
+  "notes": "Folia 同步版 v0.7.21.2（同步上游 6176f05e，2026-10-22，69 个提交）：汽水音乐协议层整体换成车机协议（登录后能拿到数据）、歌单不再置灰/曲目数不再恒0/重启后账号保住、受保护曲子不再只剩试听；网易云修好 weapi RSA 模数；酷狗歌词解析、波点无 window 崩溃修复。v42 新增定制：设置 → 外观新增「液态玻璃」开关（毛玻璃开关下面，默认开）——浮动播放条边缘折射特效，老手机卡可关，关掉零开销；下载仍支持 GitHub → ghfast → ghproxy 多镜像切换。纯上游同步版，沿用 0jiang03 签名与三源更新通道。",
+  "size": 30779274
 }
