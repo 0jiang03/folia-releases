@@ -1,13 +1,13 @@
 {
-  "version": "0.7.21.4",
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v44/Folia-v0.7.21.4-vc702317.apk",
+  "version": "0.7.21.5",
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v45/Folia-v0.7.21.5-vc702318.apk",
   "download_mirrors": [
-    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/custom-v44/Folia-v0.7.21.4-vc702317.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/custom-v44/Folia-v0.7.21.4-vc702317.apk",
-    "https://ghproxy.net/https://github.com/0jiang03/folia-releases/releases/download/custom-v44/Folia-v0.7.21.4-vc702317.apk"
+    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/custom-v45/Folia-v0.7.21.5-vc702318.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/custom-v45/Folia-v0.7.21.5-vc702318.apk",
+    "https://ghproxy.net/https://github.com/0jiang03/folia-releases/releases/download/custom-v45/Folia-v0.7.21.5-vc702318.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "notes": "同步 maimai993 上游 0.7.21.3（59 commits）：原生播放大优化（播放循环/状态栏歌词心跳出主线程、桌面歌词时间轴原生推进、媒体缓存进私有目录）；登录窗口可返回键关闭；AI 高亮词修复。定制版：液态玻璃开关、多镜像下载、三源自动更新。",
-  "size": 32993157,
-  "release_tag": "custom-v44"
+  "notes": "液态玻璃补全（30+ 玻璃表面）+ 独立于毛玻璃开关 + 新增透明度滑条；上游 0.7.21.3 原生播放大优化已同步。",
+  "size": 32991829,
+  "release_tag": "custom-v45"
 }
