@@ -1,13 +1,13 @@
 {
-  "version": "0.7.21.5",
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v45/Folia-v0.7.21.5-vc702318.apk",
+  "version": "0.7.21.6",
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v46/Folia-v0.7.21.6-vc702319.apk",
   "download_mirrors": [
-    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/custom-v45/Folia-v0.7.21.5-vc702318.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/custom-v45/Folia-v0.7.21.5-vc702318.apk",
-    "https://ghproxy.net/https://github.com/0jiang03/folia-releases/releases/download/custom-v45/Folia-v0.7.21.5-vc702318.apk"
+    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/custom-v46/Folia-v0.7.21.6-vc702319.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/custom-v46/Folia-v0.7.21.6-vc702319.apk",
+    "https://ghproxy.net/https://github.com/0jiang03/folia-releases/releases/download/custom-v46/Folia-v0.7.21.6-vc702319.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "notes": "液态玻璃补全（30+ 玻璃表面）+ 独立于毛玻璃开关 + 新增透明度滑条；上游 0.7.21.3 原生播放大优化已同步。",
-  "size": 32991829,
-  "release_tag": "custom-v45"
+  "notes": "液态玻璃四项优化：圆角黑边修复（透明度改遮罩层）、新增 7 组组件开关、修复关液态玻璃后毛玻璃不显示、电脑版切换折射确认正常。",
+  "size": 32992749,
+  "release_tag": "custom-v46"
 }
