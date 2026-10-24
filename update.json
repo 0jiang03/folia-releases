@@ -1,13 +1,13 @@
 {
-  "version": "0.7.21.6",
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v46/Folia-v0.7.21.6-vc702319.apk",
+  "version": "0.7.21.7",
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v47/Folia-v0.7.21.7-vc702320.apk",
   "download_mirrors": [
-    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/custom-v46/Folia-v0.7.21.6-vc702319.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/custom-v46/Folia-v0.7.21.6-vc702319.apk",
-    "https://ghproxy.net/https://github.com/0jiang03/folia-releases/releases/download/custom-v46/Folia-v0.7.21.6-vc702319.apk"
+    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/custom-v47/Folia-v0.7.21.7-vc702320.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/custom-v47/Folia-v0.7.21.7-vc702320.apk",
+    "https://ghproxy.net/https://github.com/0jiang03/folia-releases/releases/download/custom-v47/Folia-v0.7.21.7-vc702320.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "notes": "液态玻璃四项优化：圆角黑边修复（透明度改遮罩层）、新增 7 组组件开关、修复关液态玻璃后毛玻璃不显示、电脑版切换折射确认正常。",
-  "size": 32992749,
-  "release_tag": "custom-v46"
+  "notes": "液态玻璃性能优化：去每帧强制布局、位移图重建节流放宽、帧率自适应自动降级（慢时摘折射换流畅，恢复后自动切回）、默认参数降载。",
+  "size": 32993001,
+  "release_tag": "custom-v47"
 }
