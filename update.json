@@ -7,7 +7,7 @@
     "https://ghproxy.net/https://github.com/0jiang03/folia-releases/releases/download/v0.7.21.3/Folia-0.7.21.3-clean-vc702322.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "notes": "MM 上游 0.7.21.3 原版纯净版：无任何定制，与上游一致；本仓库后续只跟随 MM 同步。",
-  "size": 18502433,
+  "notes": "MM 上游 0.7.21.3 原版纯净版：液态玻璃等定制全部移除，界面与图标保持 MM 原版；帮助页/QQ 群/更新通道指向 0jiang03。",
+  "size": 18502489,
   "release_tag": "v0.7.21.3"
 }
