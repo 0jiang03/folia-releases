@@ -1,13 +1,13 @@
 {
-  "version": "0.7.21.8",
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v48/Folia-v0.7.21.8-vc702321.apk",
+  "version": "0.7.21.3",
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.7.21.3/Folia-0.7.21.3-clean-vc702322.apk",
   "download_mirrors": [
-    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/custom-v48/Folia-v0.7.21.8-vc702321.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/custom-v48/Folia-v0.7.21.8-vc702321.apk",
-    "https://ghproxy.net/https://github.com/0jiang03/folia-releases/releases/download/custom-v48/Folia-v0.7.21.8-vc702321.apk"
+    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.21.3/Folia-0.7.21.3-clean-vc702322.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.21.3/Folia-0.7.21.3-clean-vc702322.apk",
+    "https://ghproxy.net/https://github.com/0jiang03/folia-releases/releases/download/v0.7.21.3/Folia-0.7.21.3-clean-vc702322.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "notes": "液态玻璃精简：只保留浮动播放条一处，其余组件恢复上游 0.7.21.3 原貌；不再卡顿；播放条玻璃+透明度滑条保留。",
-  "size": 26008872,
-  "release_tag": "custom-v48"
+  "notes": "MM 上游 0.7.21.3 原版纯净版：无任何定制，与上游一致；本仓库后续只跟随 MM 同步。",
+  "size": 18502433,
+  "release_tag": "v0.7.21.3"
 }
