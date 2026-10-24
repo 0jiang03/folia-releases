@@ -1,13 +1,13 @@
 {
-  "version": "0.7.21.3",
-  "download_url": "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.21.3/Folia-0.7.21.3-clean-vc702322.apk",
+  "version": "0.7.22",
+  "download_url": "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.22/Folia-v0.7.22-vc702323.apk",
   "download_mirrors": [
-    "https://cdn.jsdelivr.net/gh/0jiang03/folia-releases@main/apk/Folia-0.7.21.3-vc702322.apk",
-    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.21.3/Folia-0.7.21.3-clean-vc702322.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.21.3/Folia-0.7.21.3-clean-vc702322.apk"
+    "https://cdn.jsdelivr.net/gh/0jiang03/folia-releases@main/apk/Folia-v0.7.22-vc702323.apk",
+    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.22/Folia-v0.7.22-vc702323.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.22/Folia-v0.7.22-vc702323.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "notes": "MM 上游 0.7.21.3 原版纯净版：液态玻璃等定制全部移除，界面与图标保持 MM 原版；帮助页/QQ 群/更新通道指向 0jiang03。",
-  "size": 18502489,
-  "release_tag": "v0.7.21.3"
+  "notes": "Folia 0.7.22：花火 Hanabi 新歌词动画、AI 设置直接选服务商、Folium 1.7 模组接口、汽水登录优化等",
+  "size": 18770061,
+  "release_tag": "v0.7.22"
 }
