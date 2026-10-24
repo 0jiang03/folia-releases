@@ -1,13 +1,13 @@
 {
-  "version": "0.7.21.7",
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v47/Folia-v0.7.21.7-vc702320.apk",
+  "version": "0.7.21.8",
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/custom-v48/Folia-v0.7.21.8-vc702321.apk",
   "download_mirrors": [
-    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/custom-v47/Folia-v0.7.21.7-vc702320.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/custom-v47/Folia-v0.7.21.7-vc702320.apk",
-    "https://ghproxy.net/https://github.com/0jiang03/folia-releases/releases/download/custom-v47/Folia-v0.7.21.7-vc702320.apk"
+    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/custom-v48/Folia-v0.7.21.8-vc702321.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/custom-v48/Folia-v0.7.21.8-vc702321.apk",
+    "https://ghproxy.net/https://github.com/0jiang03/folia-releases/releases/download/custom-v48/Folia-v0.7.21.8-vc702321.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "notes": "液态玻璃性能优化：去每帧强制布局、位移图重建节流放宽、帧率自适应自动降级（慢时摘折射换流畅，恢复后自动切回）、默认参数降载。",
-  "size": 32993001,
-  "release_tag": "custom-v47"
+  "notes": "液态玻璃精简：只保留浮动播放条一处，其余组件恢复上游 0.7.21.3 原貌；不再卡顿；播放条玻璃+透明度滑条保留。",
+  "size": 26008872,
+  "release_tag": "custom-v48"
 }
