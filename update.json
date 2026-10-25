@@ -1,13 +1,13 @@
 {
-  "version": "0.7.22",
-  "download_url": "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.22/Folia-v0.7.22-vc702323.apk",
+  "version": "0.7.22.1",
+  "download_url": "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.22.1/Folia-v0.7.22.1-vc702334.apk",
   "download_mirrors": [
-    "https://cdn.jsdelivr.net/gh/0jiang03/folia-releases@main/apk/Folia-v0.7.22-vc702323.apk",
-    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.22/Folia-v0.7.22-vc702323.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.22/Folia-v0.7.22-vc702323.apk"
+    "https://cdn.jsdelivr.net/gh/0jiang03/folia-releases@main/apk/Folia-v0.7.22.1-vc702334.apk",
+    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.22.1/Folia-v0.7.22.1-vc702334.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.22.1/Folia-v0.7.22.1-vc702334.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "notes": "Folia 0.7.22：花火 Hanabi 新歌词动画、AI 设置直接选服务商、Folium 1.7 模组接口、汽水登录优化等",
-  "size": 18770061,
-  "release_tag": "v0.7.22"
+  "notes": "Folia 0.7.22.1 修复版：同步 MM 上游 e4407317——原生播放器歌词可视化卡顿修复（不再按固定节拍推位置）、CI 打包冒烟与版本约束、清理零引用组件",
+  "size": 18764365,
+  "release_tag": "v0.7.22.1"
 }
