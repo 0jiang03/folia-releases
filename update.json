@@ -1,13 +1,13 @@
 {
-  "version": "0.7.22.1",
-  "download_url": "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.22.1/Folia-v0.7.22.1-vc702334.apk",
+  "version": "0.7.22.2",
+  "download_url": "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.22.2/Folia-v0.7.22.2-vc702335.apk",
   "download_mirrors": [
-    "https://cdn.jsdelivr.net/gh/0jiang03/folia-releases@main/apk/Folia-v0.7.22.1-vc702334.apk",
-    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.22.1/Folia-v0.7.22.1-vc702334.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.22.1/Folia-v0.7.22.1-vc702334.apk"
+    "https://cdn.jsdelivr.net/gh/0jiang03/folia-releases@main/apk/Folia-v0.7.22.2-vc702335.apk",
+    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.22.2/Folia-v0.7.22.2-vc702335.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.22.2/Folia-v0.7.22.2-vc702335.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "notes": "Folia 0.7.22.1 修复版：同步 MM 上游 e4407317——原生播放器歌词可视化卡顿修复（不再按固定节拍推位置）、CI 打包冒烟与版本约束、清理零引用组件",
-  "size": 18764365,
-  "release_tag": "v0.7.22.1"
+  "notes": "Folia 0.7.22.2：同步 MM 上游 2026-10-25 更新（39789a72）——双击歌词页空白暂停/继续、控件库化大规模重构、sync-server SQLite 原子事务/批量回滚/admin 凭据绑定/清缓存保留本地曲库、登录平台高亮 DOM 化、CI 真签名+验签与密钥泄漏门禁、前后端契约文档",
+  "size": 18764373,
+  "release_tag": "v0.7.22.2"
 }
