@@ -1,13 +1,14 @@
 {
-  "version": "0.7.22.3",
-  "download_url": "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.22.3/Folia-v0.7.22.3-vc702336.apk",
+  "version": "0.7.25.dev2",
+  "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.25.dev2-vc7025011.apk",
   "download_mirrors": [
-    "https://cdn.jsdelivr.net/gh/0jiang03/folia-releases@main/apk/Folia-v0.7.22.3-vc702336.apk",
-    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.22.3/Folia-v0.7.22.3-vc702336.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.22.3/Folia-v0.7.22.3-vc702336.apk"
+    "http://43.142.41.178:18080/apk/Folia-v0.7.25.dev2-vc7025011.apk",
+    "https://cdn.jsdelivr.net/gh/0jiang03/folia-releases@main/apk/Folia-v0.7.25.dev2-vc7025011.apk",
+    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.25.dev2/Folia-v0.7.25.dev2-vc7025011.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.25.dev2/Folia-v0.7.25.dev2-vc7025011.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "notes": "Folia 0.7.22.3：修复更新检查失败——更新清单扩为 6 路镜像（gh-proxy.com / ghfast.top / fastly.jsdelivr / gcore.jsdelivr / cdn.jsdelivr / raw），国内网络优先命中稳定镜像。内容与 0.7.22.2 一致（同步上游 39789a72）",
-  "size": 18764437,
-  "release_tag": "v0.7.22.3"
+  "notes": "同步 MM 上游 dev 分支 0.7.25.dev2（kernel 版），内容 100% 跟随上游；更新下载已切换至自建服务器直连（http://43.142.41.178:18080/apk/），速度更快，另有 jsDelivr / gh-proxy / ghfast 三路兜底。versionCode 7025011，签名指纹 8aac8547",
+  "size": 16908660,
+  "release_tag": "v0.7.25.dev2"
 }
