@@ -10,6 +10,6 @@
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
   "release_tag": "v0.7.25.dev7",
-  "size": 18311416,
+  "size": 16966004,
   "notes": "0.7.25.dev7：修复部分安卓机型安装兼容性问题（保留原始资源重打包），更新源为服务器直连+断点续传"
 }
