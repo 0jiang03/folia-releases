@@ -1,14 +1,15 @@
 {
-  "version": "0.7.25.dev5",
-  "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.25.dev5-vc7025105.apk",
+  "version": "0.7.25.dev6",
+  "versionCode": 7025106,
+  "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.25.dev6-vc7025106.apk",
   "download_mirrors": [
-    "http://43.142.41.178:18080/apk/Folia-v0.7.25.dev5-vc7025105.apk",
-    "https://cdn.jsdelivr.net/gh/0jiang03/folia-releases@main/apk/Folia-v0.7.25.dev5-vc7025105.apk",
-    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.25.dev5/Folia-v0.7.25.dev5-vc7025105.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.25.dev5/Folia-v0.7.25.dev5-vc7025105.apk"
+    "http://43.142.41.178:18080/apk/Folia-v0.7.25.dev6-vc7025106.apk",
+    "https://cdn.jsdelivr.net/gh/0jiang03/folia-releases@main/apk/Folia-v0.7.25.dev6-vc7025106.apk",
+    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.25.dev6/Folia-v0.7.25.dev6-vc7025106.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.25.dev6/Folia-v0.7.25.dev6-vc7025106.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "notes": "同步 MM 上游 dev 分支 0.7.25.dev5（liquidglass 版），内容 100% 跟随上游原版；最小分发定制：更新源/发布页/QQ群(479223718)/帮助页指向 0jiang03 定制链；下载走自建服务器直连，另有 jsDelivr / gh-proxy / ghfast 三路兜底。versionCode 7025105，签名指纹 8aac8547，高于上一版 7025011 可覆盖安装",
-  "size": 18225485,
-  "release_tag": "v0.7.25.dev5"
+  "release_tag": "v0.7.25.dev6",
+  "size": 18580302,
+  "notes": "0.7.25.dev6：修复内置更新源（服务器直连+断点续传），验证消息@昵称显示，新增管理员生成资源分享码"
 }
