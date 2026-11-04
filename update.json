@@ -1,15 +1,15 @@
 {
-  "version": "0.7.25.dev7",
-  "versionCode": 7025107,
-  "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.25.dev7-vc7025107.apk",
+  "version": "0.7.25.dev8",
+  "versionCode": 7025108,
+  "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.25.dev8-vc7025108.apk",
   "download_mirrors": [
-    "http://43.142.41.178:18080/apk/Folia-v0.7.25.dev7-vc7025107.apk",
-    "https://cdn.jsdelivr.net/gh/0jiang03/folia-releases@main/apk/Folia-v0.7.25.dev7-vc7025107.apk",
-    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.25.dev7/Folia-v0.7.25.dev7-vc7025107.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.25.dev7/Folia-v0.7.25.dev7-vc7025107.apk"
+    "http://43.142.41.178:18080/apk/Folia-v0.7.25.dev8-vc7025108.apk",
+    "https://cdn.jsdelivr.net/gh/0jiang03/folia-releases@main/apk/Folia-v0.7.25.dev8-vc7025108.apk",
+    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.25.dev8/Folia-v0.7.25.dev8-vc7025108.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.25.dev8/Folia-v0.7.25.dev8-vc7025108.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "release_tag": "v0.7.25.dev7",
-  "size": 16966004,
-  "notes": "0.7.25.dev7：修复部分安卓机型安装兼容性问题（保留原始资源重打包），更新源为服务器直连+断点续传"
+  "release_tag": "v0.7.25.dev8",
+  "size": 19159627,
+  "notes": "0.7.25.dev8：基于 MM 0.7.25 最新源码原生构建，恢复液态玻璃效果，修复部分国产 ROM 安装兼容性；更新源服务器直连"
 }
