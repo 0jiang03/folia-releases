@@ -10,6 +10,6 @@
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
   "release_tag": "v0.7.25.dev9",
-  "size": 18605977,
+  "size": 18618595,
   "notes": "0.7.25.dev9：同步上游 0.7.25.dev6 构建（a312055c1）内容；不修改任何界面与功能代码，视频层/设置项行为与上游完全一致；更新源、群号、帮助页仍指向本发布仓。"
 }
