@@ -1,14 +1,14 @@
 {
   "version": "0.7.25.dev8",
-  "versionCode": 7026002,
-  "download_url": "http://43.142.41.178:18080/apk/Folia-0.7.25.dev8-vc7026002.apk",
+  "versionCode": 7025112,
+  "download_url": "http://43.142.41.178:18080/apk/Folia-0.7.25.dev8-vc7025112.apk",
   "download_mirrors": [
-    "http://43.142.41.178:18080/apk/Folia-0.7.25.dev8-vc7026002.apk",
-    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.25.dev8/Folia-0.7.25.dev8-vc7026002.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.25.dev8/Folia-0.7.25.dev8-vc7026002.apk"
+    "http://43.142.41.178:18080/apk/Folia-0.7.25.dev8-vc7025112.apk",
+    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.25.dev8/Folia-0.7.25.dev8-vc7025112.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.25.dev8/Folia-0.7.25.dev8-vc7025112.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
   "release_tag": "v0.7.25.dev8",
   "size": 24307655,
-  "notes": "与上游 0.7.25.dev8 同版本号；上游 dev 源码 + 本群定制；修复检查更新的版本号解析。"
+  "notes": "与上游 0.7.25.dev8 同版本号；上游 dev 源码 + 本群定制。"
 }
