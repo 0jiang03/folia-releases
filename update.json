@@ -1,15 +1,15 @@
 {
-  "version": "0.7.25.dev10",
-  "versionCode": 7025110,
-  "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.25.dev10-vc7025110.apk",
+  "version": "0.7.25.dev11",
+  "versionCode": 7025111,
+  "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.25.dev11-vc7025111.apk",
   "download_mirrors": [
-    "http://43.142.41.178:18080/apk/Folia-v0.7.25.dev10-vc7025110.apk",
-    "https://cdn.jsdelivr.net/gh/0jiang03/folia-releases@main/apk/Folia-v0.7.25.dev10-vc7025110.apk",
-    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.25.dev10/Folia-v0.7.25.dev10-vc7025110.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.25.dev10/Folia-v0.7.25.dev10-vc7025110.apk"
+    "http://43.142.41.178:18080/apk/Folia-v0.7.25.dev11-vc7025111.apk",
+    "https://cdn.jsdelivr.net/gh/0jiang03/folia-releases@main/apk/Folia-v0.7.25.dev11-vc7025111.apk",
+    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.25.dev11/Folia-v0.7.25.dev11-vc7025111.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.25.dev11/Folia-v0.7.25.dev11-vc7025111.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "release_tag": "v0.7.25.dev10",
-  "size": 19164163,
-  "notes": "0.7.25.dev10：新增液态玻璃质感（设置 → 外观 → 显示 → 液态玻璃，排在毛玻璃下面，可随时关闭）；只加合成层高光与投影，不加大模糊、不加滤镜、不加动画，性能与上一版基本一致。其余保持上游 0.7.25 原样。"
+  "release_tag": "v0.7.25.dev11",
+  "size": 24307675,
+  "notes": "0.7.25.dev11：同步上游最新 dev 源码（三维专辑架、听歌档案、Rhyme 首页、新版可视化与歌词特效等），液态玻璃采用上游自带实现（设置 → 性能与动效，可开关可调预设）。仅保留更新源、群号、帮助页三处分发定制。"
 }
