@@ -4,7 +4,6 @@
   "download_url": "http://43.142.41.178:18080/apk/Folia-0.7.25.dev12-vc7026002.apk",
   "download_mirrors": [
     "http://43.142.41.178:18080/apk/Folia-0.7.25.dev12-vc7026002.apk",
-    "https://cdn.jsdelivr.net/gh/0jiang03/folia-releases@main/apk/Folia-0.7.25.dev12-vc7026002.apk",
     "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.25.dev12/Folia-0.7.25.dev12-vc7026002.apk",
     "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.25.dev12/Folia-0.7.25.dev12-vc7026002.apk"
   ],
