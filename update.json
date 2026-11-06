@@ -1,15 +1,15 @@
 {
-  "version": "0.7.26.0",
-  "versionCode": 7026001,
-  "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.26.0-vc7026001.apk",
+  "version": "0.7.25.dev12",
+  "versionCode": 7026002,
+  "download_url": "http://43.142.41.178:18080/apk/Folia-0.7.25.dev12-vc7026002.apk",
   "download_mirrors": [
-    "http://43.142.41.178:18080/apk/Folia-v0.7.26.0-vc7026001.apk",
-    "https://cdn.jsdelivr.net/gh/0jiang03/folia-releases@main/apk/Folia-v0.7.26.0-vc7026001.apk",
-    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.26.0/Folia-v0.7.26.0-vc7026001.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.26.0/Folia-v0.7.26.0-vc7026001.apk"
+    "http://43.142.41.178:18080/apk/Folia-0.7.25.dev12-vc7026002.apk",
+    "https://cdn.jsdelivr.net/gh/0jiang03/folia-releases@main/apk/Folia-0.7.25.dev12-vc7026002.apk",
+    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.25.dev12/Folia-0.7.25.dev12-vc7026002.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.25.dev12/Folia-0.7.25.dev12-vc7026002.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "release_tag": "v0.7.26.0",
-  "size": 24307643,
-  "notes": "0.7.26.0：修复更新检查的版本号解析（0.7.25.devN 解析失败退化成字符串比较，导致装了 dev9 的机器检查更新时误判为“已是最新”，收不到 dev10/dev11 提示）。内容与上一版 dev11 一致，仅含该修复与版本号调整。"
+  "release_tag": "v0.7.25.dev12",
+  "size": 24307651,
+  "notes": "修复更新检查的版本号解析（0.7.25.devN 解析失败退化成字符串比较，导致旧版检查更新误判为已是最新）。内容与 dev11 一致。"
 }
