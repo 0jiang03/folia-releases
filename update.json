@@ -1,12 +1,12 @@
 {
   "version": "0.7.26.0",
   "versionCode": 7026001,
-  "download_url": "http://43.142.41.178:18080/apk/Folia-0.7.26.0-vc7026001.apk",
+  "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.26.0-vc7026001.apk",
   "download_mirrors": [
-    "http://43.142.41.178:18080/apk/Folia-0.7.26.0-vc7026001.apk",
-    "https://cdn.jsdelivr.net/gh/0jiang03/folia-releases@main/apk/Folia-0.7.26.0-vc7026001.apk",
-    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.26.0/Folia-0.7.26.0-vc7026001.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.26.0/Folia-0.7.26.0-vc7026001.apk"
+    "http://43.142.41.178:18080/apk/Folia-v0.7.26.0-vc7026001.apk",
+    "https://cdn.jsdelivr.net/gh/0jiang03/folia-releases@main/apk/Folia-v0.7.26.0-vc7026001.apk",
+    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.26.0/Folia-v0.7.26.0-vc7026001.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.26.0/Folia-v0.7.26.0-vc7026001.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
   "release_tag": "v0.7.26.0",
