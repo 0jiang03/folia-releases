@@ -1,14 +1,15 @@
 {
-  "version": "0.7.25.dev8",
-  "versionCode": 7025112,
-  "download_url": "http://43.142.41.178:18080/apk/Folia-0.7.25.dev8-vc7025112.apk",
+  "version": "0.7.26.dev1",
+  "versionCode": 7025113,
+  "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.26.dev1-vc7025113.apk",
   "download_mirrors": [
-    "http://43.142.41.178:18080/apk/Folia-0.7.25.dev8-vc7025112.apk",
-    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.25.dev8/Folia-0.7.25.dev8-vc7025112.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.25.dev8/Folia-0.7.25.dev8-vc7025112.apk"
+    "http://43.142.41.178:18080/apk/Folia-v0.7.26.dev1-vc7025113.apk",
+    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.26.dev1/Folia-v0.7.26.dev1-vc7025113.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.26.dev1/Folia-v0.7.26.dev1-vc7025113.apk",
+    "https://cdn.jsdelivr.net/gh/0jiang03/folia-releases@main/apk/Folia-v0.7.26.dev1-vc7025113.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "release_tag": "v0.7.25.dev8",
-  "size": 24307655,
-  "notes": "与上游 0.7.25.dev8 同版本号；上游 dev 源码 + 本群定制。"
+  "release_tag": "v0.7.26.dev1",
+  "size": 26497155,
+  "notes": "同步上游 dev 24cb5c7da（0.7.26.1）：Apple Music Windows、machi 模拟节拍、mpv 0.42.0、网易云 IPv4 修复、账号同步数据、歌手全部歌曲、音量平衡。"
 }
