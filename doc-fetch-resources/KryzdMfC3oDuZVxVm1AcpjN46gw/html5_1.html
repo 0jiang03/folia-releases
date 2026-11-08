@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="use-iframe" content="true">
+<meta name="html-box-height-mode" content="auto">
+<meta name="description" content="Folia 定制版发布轨迹时间线：0.7.21.3 纯净版、0.7.22.3 六源更新修复、0.7.25.dev11 同步至 0.7.25、0.7.26.dev1 当前版本">
+<title></title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { background:#FFFFFF; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif; color:#1F2329; }
+  .wrap { width:100%; max-width:820px; padding:4px 2px; }
+  .title { font-size:17px; font-weight:700; color:#1F2329; margin-bottom:2px; }
+  .sub { font-size:13px; color:#646A73; margin-bottom:16px; }
+  .track { display:flex; align-items:stretch; gap:0; position:relative; }
+  .line { position:absolute; top:22px; left:14px; right:14px; height:2px; background:#E8E2CC; }
+  .node { flex:1; min-width:0; position:relative; }
+  .dot { width:12px; height:12px; border-radius:50%; background:#C9B979; border:2px solid #FFFFFF; box-shadow:0 0 0 2px #C9B979; margin:16px auto 10px; position:relative; z-index:1; }
+  .node.current .dot { background:#35705A; box-shadow:0 0 0 2px #35705A; }
+  .card { background:#FAF8F0; border:1px solid #E8E2CC; border-radius:8px; padding:10px 10px 12px; margin:0 4px; }
+  .node.current .card { background:#F0F7F2; border-color:#BCD9C7; }
+  .date { font-size:12px; color:#646A73; margin-bottom:4px; }
+  .ver { font-size:16px; font-weight:700; color:#1F2329; }
+  .node.current .ver { color:#35705A; }
+  .badge { display:inline-block; font-size:11px; color:#646A73; background:#FFFFFF; border:1px solid #DEE3E8; border-radius:4px; padding:0 6px; margin:4px 0 6px; }
+  .node.current .badge { color:#35705A; border-color:#BCD9C7; background:#FFFFFF; }
+  .desc { font-size:12.5px; line-height:1.5; color:#1F2329; }
+  .tag { display:inline-block; font-size:11px; font-weight:600; color:#B08D2E; background:#F7F0DC; border-radius:4px; padding:1px 7px; margin-top:8px; }
+  .node.current .tag { color:#35705A; background:#E3F0E8; }
+  @media (max-width:640px) {
+    .track { flex-direction:column; }
+    .line { left:6px; right:auto; top:8px; bottom:8px; width:2px; height:auto; }
+    .node { display:flex; align-items:flex-start; gap:10px; padding:0 0 14px 0; }
+    .dot { margin:14px 0 0 0; flex:none; }
+    .card { flex:1; margin:0; }
+    .wrap { padding:4px 0; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="title">Folia 定制版发布轨迹</div>
+  <div class="sub">2026-10-24 回归作者原版后，先稳更新链路，再同步到 0.7.26 大版本</div>
+  <div class="track">
+    <div class="line"></div>
+    <div class="node">
+      <div class="dot"></div>
+      <div class="card">
+        <div class="date">10-24</div>
+        <div class="ver">0.7.21.3</div>
+        <div class="badge">vc 702322</div>
+        <div class="desc">回归作者原版，去除全部界面定制，仅保留分发定制</div>
+        <div class="tag">纯净版</div>
+      </div>
+    </div>
+    <div class="node">
+      <div class="dot"></div>
+      <div class="card">
+        <div class="date">10-26</div>
+        <div class="ver">0.7.22.3</div>
+        <div class="badge">vc 702336</div>
+        <div class="desc">更新检查修复：清单扩为 6 路国内可达镜像，手机可直接收到更新</div>
+        <div class="tag">链路修复</div>
+      </div>
+    </div>
+    <div class="node">
+      <div class="dot"></div>
+      <div class="card">
+        <div class="date">11-06</div>
+        <div class="ver">0.7.25.dev11</div>
+        <div class="badge">vc 7025111</div>
+        <div class="desc">连续同步作者 dev 线到 0.7.25，补装屏幕方向插件，版本号改为 dev 序号逐版递增</div>
+        <div class="tag">持续同步</div>
+      </div>
+    </div>
+    <div class="node current">
+      <div class="dot"></div>
+      <div class="card">
+        <div class="date">11-07</div>
+        <div class="ver">0.7.26.dev1</div>
+        <div class="badge">vc 7025113</div>
+        <div class="desc">同步作者 0.7.26.1：Apple Music Windows、machi 模拟节拍、mpv 0.42.0、网易云 IPv4 修复、音量平衡</div>
+        <div class="tag">当前版本</div>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

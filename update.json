@@ -1,15 +1,15 @@
 {
-  "version": "0.7.27.2",
-  "versionCode": 7270002,
-  "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.27.2-vc7270002.apk",
+  "version": "0.7.27.3",
+  "versionCode": 7270003,
+  "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.27.3-vc7270003.apk",
   "download_mirrors": [
-    "http://43.142.41.178:18080/apk/Folia-v0.7.27.2-vc7270002.apk",
-    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.27.2/Folia-v0.7.27.2-vc7270002.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.27.2/Folia-v0.7.27.2-vc7270002.apk",
-    "https://cdn.jsdelivr.net/gh/0jiang03/folia-releases@main/apk/Folia-v0.7.27.2-vc7270002.apk"
+    "http://43.142.41.178:18080/apk/Folia-v0.7.27.3-vc7270003.apk",
+    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.27.3/Folia-v0.7.27.3-vc7270003.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.27.3/Folia-v0.7.27.3-vc7270003.apk",
+    "https://cdn.jsdelivr.net/gh/0jiang03/folia-releases@main/apk/Folia-v0.7.27.3-vc7270003.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "release_tag": "v0.7.27.2",
-  "size": 26765222,
-  "notes": "同步上游 dev a54be6ec7（0.7.27.2）：洛雪音乐融入平台主页与全平台图标、Apple Music 逐字歌词与登录切换、Bravis 海报文字溢出修复、外部播放器窗口交接修复、更新检查代理与网盘入口。"
+  "release_tag": "v0.7.27.3",
+  "size": 26877608,
+  "notes": "同步上游 dev f16ceffc3（0.7.27.3）：播放页原生过渡内核、局域网 DLNA 投送、莱茵首页常驻与开屏提速、nebbia 雾细节开放设置、暂停当场生效与滑条统一、安卓桥响应上限与通知栏暂停修复。"
 }
