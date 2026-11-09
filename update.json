@@ -1,15 +1,15 @@
 {
-  "version": "0.7.27.3",
-  "versionCode": 7270003,
-  "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.27.3-vc7270003.apk",
+  "version": "0.7.27.4",
+  "versionCode": 7270004,
+  "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.27.4-vc7270004.apk",
   "download_mirrors": [
-    "http://43.142.41.178:18080/apk/Folia-v0.7.27.3-vc7270003.apk",
-    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.27.3/Folia-v0.7.27.3-vc7270003.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.27.3/Folia-v0.7.27.3-vc7270003.apk",
-    "https://cdn.jsdelivr.net/gh/0jiang03/folia-releases@main/apk/Folia-v0.7.27.3-vc7270003.apk"
+    "http://43.142.41.178:18080/apk/Folia-v0.7.27.4-vc7270004.apk",
+    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.27.4/Folia-v0.7.27.4-vc7270004.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.27.4/Folia-v0.7.27.4-vc7270004.apk",
+    "https://cdn.jsdelivr.net/gh/0jiang03/folia-releases@main/apk/Folia-v0.7.27.4-vc7270004.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "release_tag": "v0.7.27.3",
-  "size": 26877608,
-  "notes": "同步上游 dev f16ceffc3（0.7.27.3）：播放页原生过渡内核、局域网 DLNA 投送、莱茵首页常驻与开屏提速、nebbia 雾细节开放设置、暂停当场生效与滑条统一、安卓桥响应上限与通知栏暂停修复。"
+  "release_tag": "v0.7.27.4",
+  "size": 26941753,
+  "notes": "同步上游 dev 844baebb1：新增局域网投送（投送遥控器、音响音量控制、连 WiFi 自动投送），字体市场与背景市场一体化并接入字体天下，洛雪首页横滑卡流与工作台「我的」，修复本地音乐导入副本无法播放与酷狗扫码登录失败。"
 }
