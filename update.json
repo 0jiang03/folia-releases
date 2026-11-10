@@ -9,6 +9,6 @@
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
   "release_tag": "v0.7.27.5",
-  "size": 61399937,
+  "size": 62520705,
   "notes": "同步上游 dev ba16c9457（0.7.27.5）：视觉器新增粒子 3D 舞台、共享轨道相机与陀螺仪倾斜；LX 音乐首页与歌单/专辑/榜单页改为横滑卡流，平台与分类收进浮层。安装包比上一版大约 50MB，下载与首次安装会慢一些。"
 }
