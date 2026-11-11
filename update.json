@@ -1,14 +1,14 @@
 {
- "version": "0.7.27.5.2",
- "versionCode": 7270005,
- "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.27.5.2-vc7270005.apk",
+ "version": "0.7.27.5.3",
+ "versionCode": 7270006,
+ "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.27.5.3-vc7270006.apk",
  "download_mirrors": [
-  "http://43.142.41.178:18080/apk/Folia-v0.7.27.5.2-vc7270005.apk",
-  "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.27.5.2/Folia-v0.7.27.5.2-vc7270005.apk",
-  "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.27.5.2/Folia-v0.7.27.5.2-vc7270005.apk"
+  "http://43.142.41.178:18080/apk/Folia-v0.7.27.5.3-vc7270006.apk",
+  "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.27.5.3/Folia-v0.7.27.5.3-vc7270006.apk",
+  "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.27.5.3/Folia-v0.7.27.5.3-vc7270006.apk"
  ],
  "page_url": "https://github.com/0jiang03/folia-releases/releases",
- "release_tag": "v0.7.27.5.2",
- "size": 61796113,
- "notes": "图标修正：改为渐变底 + 居中 F 的标准自适应图标，四周留白，圆形/圆角遮罩均无黑边。"
+ "release_tag": "v0.7.27.5.3",
+ "size": 61400025,
+ "notes": "同步 MM 上游 a287649e3：可视化新增粒子 3D 舞台、共享轨道相机与陀螺仪倾斜；lxmusic 首页与歌单/专辑/榜单改为横滑卡流。"
 }
