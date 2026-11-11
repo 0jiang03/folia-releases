@@ -1,14 +1,14 @@
 {
- "version": "0.7.27.5.4",
- "versionCode": 7270007,
- "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.27.5.4-vc7270007.apk",
+ "version": "0.7.27.5.5",
+ "versionCode": 7270008,
+ "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.27.5.5-vc7270008.apk",
  "download_mirrors": [
-  "http://43.142.41.178:18080/apk/Folia-v0.7.27.5.4-vc7270007.apk",
-  "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.27.5.4/Folia-v0.7.27.5.4-vc7270007.apk",
-  "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.27.5.4/Folia-v0.7.27.5.4-vc7270007.apk"
+  "http://43.142.41.178:18080/apk/Folia-v0.7.27.5.5-vc7270008.apk",
+  "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.27.5.5/Folia-v0.7.27.5.5-vc7270008.apk",
+  "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.27.5.5/Folia-v0.7.27.5.5-vc7270008.apk"
  ],
  "page_url": "https://github.com/0jiang03/folia-releases/releases",
- "release_tag": "v0.7.27.5.4",
- "size": 62096601,
- "notes": "图标修正：恢复用户设计原稿（蓝紫粉渐变 + 白 F），自适应图标无套娃、圆形/圆角遮罩无黑边。功能同 0.7.27.5.3。"
+ "release_tag": "v0.7.27.5.5",
+ "size": 62096761,
+ "notes": "同步上游 dev f1a4069c9：修复叠层校准读取陈旧位置导致动画周期回抽（#282），壁纸/歌词层动画更顺。图标仍为用户原稿。"
 }
