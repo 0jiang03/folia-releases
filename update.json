@@ -1,14 +1,12 @@
 {
-  "version": "0.7.28.2.1",
-  "versionCode": 7270011,
-  "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.28.2.1-vc7270011.apk",
+  "version": "0.7.28.2.2",
+  "versionCode": 7270012,
+  "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.28.2.2-vc7270012.apk",
   "download_mirrors": [
-    "http://43.142.41.178:18080/apk/Folia-v0.7.28.2.1-vc7270011.apk",
-    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.2.1/Folia-v0.7.28.2.1-vc7270011.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.2.1/Folia-v0.7.28.2.1-vc7270011.apk"
+    "http://43.142.41.178:18080/apk/Folia-v0.7.28.2.2-vc7270012.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "release_tag": "v0.7.28.2.1",
-  "size": 143557709,
-  "notes": "陀螺仪轴向换算重做，上下可转、斜向不再只认左右、出死区不卡死、横屏方向修正；町景接上陀螺仪，每个背景可单独开关；下载更新配合服务器断点续传修复"
+  "release_tag": "v0.7.28.2.2",
+  "size": 143557701,
+  "notes": "修复部分机型（Android 15/16 新设备）一打开就闪退、完全打不开的问题；陀螺仪轴向换算重做，上下可转、斜向不再只认左右、出死区不卡死、横屏方向修正；町景接上陀螺仪，每个背景可单独开关；下载更新配合服务器断点续传修复"
 }
