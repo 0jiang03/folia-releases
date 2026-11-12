@@ -1,12 +1,12 @@
 {
-  "version": "0.7.28.4.1",
-  "versionCode": 7270020,
-  "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.28.4.1-vc7270020.apk",
+  "version": "0.7.28.4.2",
+  "versionCode": 7270021,
+  "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.28.4.2-vc7270021.apk",
   "download_mirrors": [
-    "http://43.142.41.178:18080/apk/Folia-v0.7.28.4.1-vc7270020.apk"
+    "http://43.142.41.178:18080/apk/Folia-v0.7.28.4.2-vc7270021.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "release_tag": "v0.7.28.4.1",
-  "size": 338120385,
-  "notes": "修复部分机型启动时闪退、完全进不去的问题（内置 Node 运行时缺少依赖文件）；全新启动动画；内置 11 个社区模组，开箱即用；歌曲评论、双语注音、繁體字幕等可用"
+  "release_tag": "v0.7.28.4.2",
+  "size": 338142075,
+  "notes": "同步上游最新开发版：新增「B 站 MV」歌词样式；影厅声线追踪在安卓上真正可用；后台久放后封面能自动补回；遇到放不了的歌自动往后跳；修复窄屏胶囊展开挤按钮、模组浮窗收尾问题"
 }
