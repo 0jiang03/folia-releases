@@ -1,12 +1,12 @@
 {
-  "version": "0.7.28.2.2",
-  "versionCode": 7270012,
-  "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.28.2.2-vc7270012.apk",
+  "version": "0.7.28.4.1",
+  "versionCode": 7270020,
+  "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.28.4.1-vc7270020.apk",
   "download_mirrors": [
-    "http://43.142.41.178:18080/apk/Folia-v0.7.28.2.2-vc7270012.apk"
+    "http://43.142.41.178:18080/apk/Folia-v0.7.28.4.1-vc7270020.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "release_tag": "v0.7.28.2.2",
-  "size": 143557701,
-  "notes": "修复部分机型（Android 15/16 新设备）一打开就闪退、完全打不开的问题；陀螺仪轴向换算重做，上下可转、斜向不再只认左右、出死区不卡死、横屏方向修正；町景接上陀螺仪，每个背景可单独开关；下载更新配合服务器断点续传修复"
+  "release_tag": "v0.7.28.4.1",
+  "size": 338120385,
+  "notes": "修复部分机型启动时闪退、完全进不去的问题（内置 Node 运行时缺少依赖文件）；全新启动动画；内置 11 个社区模组，开箱即用；歌曲评论、双语注音、繁體字幕等可用"
 }
