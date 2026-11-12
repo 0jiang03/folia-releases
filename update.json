@@ -1,14 +1,14 @@
 {
- "version": "0.7.27.5.5",
- "versionCode": 7270008,
- "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.27.5.5-vc7270008.apk",
+ "version": "0.7.28.1",
+ "versionCode": 7270009,
+ "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.28.1-vc7270009.apk",
  "download_mirrors": [
-  "http://43.142.41.178:18080/apk/Folia-v0.7.27.5.5-vc7270008.apk",
-  "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.27.5.5/Folia-v0.7.27.5.5-vc7270008.apk",
-  "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.27.5.5/Folia-v0.7.27.5.5-vc7270008.apk"
+  "http://43.142.41.178:18080/apk/Folia-v0.7.28.1-vc7270009.apk",
+  "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.1/Folia-v0.7.28.1-vc7270009.apk",
+  "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.1/Folia-v0.7.28.1-vc7270009.apk"
  ],
  "page_url": "https://github.com/0jiang03/folia-releases/releases",
- "release_tag": "v0.7.27.5.5",
- "size": 62096761,
- "notes": "同步上游 dev f1a4069c9：修复叠层校准读取陈旧位置导致动画周期回抽（#282），壁纸/歌词层动画更顺。图标仍为用户原稿。"
+ "release_tag": "v0.7.28.1",
+ "size": 144240132,
+ "notes": "同步上游 dev 443db4037（v0.7.28.1）：新增 3D 场景引擎（影厅/幕布/声线追踪）、倾斜与陀螺仪灵敏度、安卓模组系统、后台封面与播放预探测修复、签到改 App 内。"
 }
