@@ -1,14 +1,14 @@
 {
- "version": "0.7.28.1",
- "versionCode": 7270009,
- "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.28.1-vc7270009.apk",
- "download_mirrors": [
-  "http://43.142.41.178:18080/apk/Folia-v0.7.28.1-vc7270009.apk",
-  "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.1/Folia-v0.7.28.1-vc7270009.apk",
-  "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.1/Folia-v0.7.28.1-vc7270009.apk"
- ],
- "page_url": "https://github.com/0jiang03/folia-releases/releases",
- "release_tag": "v0.7.28.1",
- "size": 144240132,
- "notes": "同步上游 dev 443db4037（v0.7.28.1）：新增 3D 场景引擎（影厅/幕布/声线追踪）、倾斜与陀螺仪灵敏度、安卓模组系统、后台封面与播放预探测修复、签到改 App 内。"
+  "version": "0.7.28.2",
+  "versionCode": 7270010,
+  "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.28.2-vc7270010.apk",
+  "download_mirrors": [
+    "http://43.142.41.178:18080/apk/Folia-v0.7.28.2-vc7270010.apk",
+    "https://gh-proxy.com/https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.2/Folia-v0.7.28.2-vc7270010.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.2/Folia-v0.7.28.2-vc7270010.apk"
+  ],
+  "page_url": "https://github.com/0jiang03/folia-releases/releases",
+  "release_tag": "v0.7.28.2",
+  "size": 143556101,
+  "notes": "同步上游 70a7d222c：陀螺仪灵敏度与平滑算法修复（按时间插值），场景默认灵敏度 0.7→0.4；新增白底黑F图标"
 }
