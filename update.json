@@ -1,13 +1,13 @@
 {
-  "version": "0.7.28.4.2",
-  "versionCode": 7270021,
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.4.2/Folia-v0.7.28.4.2-vc7270021.apk",
+  "version": "0.7.28.4.3",
+  "versionCode": 7270022,
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.4.3/Folia-v0.7.28.4.3-vc7270022.apk",
   "download_mirrors": [
-    "http://43.142.41.178:18080/apk/Folia-v0.7.28.4.2-vc7270021.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.4.2/Folia-v0.7.28.4.2-vc7270021.apk"
+    "http://43.142.41.178:18080/apk/Folia-v0.7.28.4.3-vc7270022.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.4.3/Folia-v0.7.28.4.3-vc7270022.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "release_tag": "v0.7.28.4.2",
-  "size": 338142075,
-  "notes": "同步上游最新开发版：新增「B 站 MV」歌词样式；影厅声线追踪在安卓上真正可用；后台久放后封面能自动补回；遇到放不了的歌自动往后跳；修复窄屏胶囊展开挤按钮、模组浮窗收尾问题"
+  "release_tag": "v0.7.28.4.3",
+  "size": 340230377,
+  "notes": "内置模组扩到 20 个：新增花笺、AI 歌词动画导演 Plus、歌曲资料、时钟·FPS·性能、进度条增强（样例）；上游同步 ad83ab41f（「B 站 MV」歌词样式、影厅声线追踪等）"
 }
