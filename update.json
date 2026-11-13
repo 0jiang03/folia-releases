@@ -1,9 +1,10 @@
 {
   "version": "0.7.28.4.2",
   "versionCode": 7270021,
-  "download_url": "http://43.142.41.178:18080/apk/Folia-v0.7.28.4.2-vc7270021.apk",
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.4.2/Folia-v0.7.28.4.2-vc7270021.apk",
   "download_mirrors": [
-    "http://43.142.41.178:18080/apk/Folia-v0.7.28.4.2-vc7270021.apk"
+    "http://43.142.41.178:18080/apk/Folia-v0.7.28.4.2-vc7270021.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.4.2/Folia-v0.7.28.4.2-vc7270021.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
   "release_tag": "v0.7.28.4.2",
