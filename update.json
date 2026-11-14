@@ -1,13 +1,13 @@
 {
-  "version": "0.7.28.4.3",
-  "versionCode": 7270022,
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.4.3/Folia-v0.7.28.4.3-vc7270022.apk",
+  "version": "0.7.28.4.4",
+  "versionCode": 7270023,
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.4.4/Folia-v0.7.28.4.4-vc7270023.apk",
   "download_mirrors": [
-    "http://43.142.41.178:18080/apk/Folia-v0.7.28.4.3-vc7270022.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.4.3/Folia-v0.7.28.4.3-vc7270022.apk"
+    "http://43.142.41.178:18080/apk/Folia-v0.7.28.4.4-vc7270023.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.4.4/Folia-v0.7.28.4.4-vc7270023.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "release_tag": "v0.7.28.4.3",
-  "size": 340230377,
-  "notes": "内置模组扩到 20 个：新增花笺、AI 歌词动画导演 Plus、歌曲资料、时钟·FPS·性能、进度条增强（样例）；上游同步 ad83ab41f（「B 站 MV」歌词样式、影厅声线追踪等）"
+  "release_tag": "v0.7.28.4.4",
+  "size": 335109270,
+  "notes": "同步上游 dev 3498845d3：修复智能动感与歌词同步在原生播放下的失效、拍点一两秒出结果并压住峰值负载、智能动感分析内存与后台负载下调、修复安卓模组宿主启动崩溃、CI 产物架构校验按实际文件名匹配。"
 }
