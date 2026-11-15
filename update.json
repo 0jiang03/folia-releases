@@ -1,13 +1,13 @@
 {
-  "version": "0.7.28.4.7",
-  "versionCode": 7270026,
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.4.7/Folia-v0.7.28.4.7-vc7270026.apk",
+  "version": "0.8.28.5",
+  "versionCode": 7270027,
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.5/Folia-v0.8.28.5-vc7270027.apk",
   "download_mirrors": [
-    "http://43.142.41.178:18080/apk/Folia-v0.7.28.4.7-vc7270026.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.4.7/Folia-v0.7.28.4.7-vc7270026.apk"
+    "http://43.142.41.178:18080/apk/Folia-v0.8.28.5-vc7270027.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.5/Folia-v0.8.28.5-vc7270027.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "release_tag": "v0.7.28.4.7",
-  "size": 340567572,
-  "notes": "修复开屏动画：补上缺失的 splash-glyph.png（透明底黑 F），4.8s 开屏编排恢复正常。定制点全部重打：图标全套、20 个内置模组、群号 479223718、六源更新、帮助页链接、签名。上游无新提交。"
+  "release_tag": "v0.8.28.5",
+  "size": 232745469,
+  "notes": "同步上游 0.8.28.5：人声分离三态（原声/伴奏/人声）、B 站整合完善（搜索/番剧分集/关注粉丝/签名/限时大会员）、MV 背景并入歌词壁纸模式；修复换歌封面不跟随、桌面叠层回抽、节拍取消参数、弹窗回弹及 B 站图床与缓冲问题。移除旧 htdemucs 权重，包体 340MB→222MB。"
 }
