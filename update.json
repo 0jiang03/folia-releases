@@ -1,13 +1,13 @@
 {
-  "version": "0.7.28.4.6",
-  "versionCode": 7270025,
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.4.6/Folia-v0.7.28.4.6-vc7270025.apk",
+  "version": "0.7.28.4.7",
+  "versionCode": 7270026,
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.4.7/Folia-v0.7.28.4.7-vc7270026.apk",
   "download_mirrors": [
-    "http://43.142.41.178:18080/apk/Folia-v0.7.28.4.6-vc7270025.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.4.6/Folia-v0.7.28.4.6-vc7270025.apk"
+    "http://43.142.41.178:18080/apk/Folia-v0.7.28.4.7-vc7270026.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.4.7/Folia-v0.7.28.4.7-vc7270026.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "release_tag": "v0.7.28.4.6",
-  "size": 340416720,
-  "notes": "全量重放定制基线：内置模组 20 个、开屏动画、白底黑F 图标全套、六源更新、群号 479223718、帮助页链接、签名。修正 4.5 模组缺失。上游无新提交。"
+  "release_tag": "v0.7.28.4.7",
+  "size": 340567572,
+  "notes": "修复开屏动画：补上缺失的 splash-glyph.png（透明底黑 F），4.8s 开屏编排恢复正常。定制点全部重打：图标全套、20 个内置模组、群号 479223718、六源更新、帮助页链接、签名。上游无新提交。"
 }
