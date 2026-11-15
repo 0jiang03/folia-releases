@@ -1,13 +1,13 @@
 {
-  "version": "0.7.28.4.5",
-  "versionCode": 7270024,
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.4.5/Folia-v0.7.28.4.5-vc7270024.apk",
+  "version": "0.7.28.4.6",
+  "versionCode": 7270025,
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.4.6/Folia-v0.7.28.4.6-vc7270025.apk",
   "download_mirrors": [
-    "http://43.142.41.178:18080/apk/Folia-v0.7.28.4.5-vc7270024.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.4.5/Folia-v0.7.28.4.5-vc7270024.apk"
+    "http://43.142.41.178:18080/apk/Folia-v0.7.28.4.6-vc7270025.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.4.6/Folia-v0.7.28.4.6-vc7270025.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "release_tag": "v0.7.28.4.5",
-  "size": 334870418,
-  "notes": "重打包定制资源：应用图标恢复定制版（白底+黑F，全密度）；分发定制点全量复核通过。上游 dev/main 无新提交，功能与 0.7.28.4.4 一致。"
+  "release_tag": "v0.7.28.4.6",
+  "size": 340416720,
+  "notes": "全量重放定制基线：内置模组 20 个、开屏动画、白底黑F 图标全套、六源更新、群号 479223718、帮助页链接、签名。修正 4.5 模组缺失。上游无新提交。"
 }
