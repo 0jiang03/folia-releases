@@ -1,13 +1,13 @@
 {
-  "version": "0.7.28.4.4",
-  "versionCode": 7270023,
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.4.4/Folia-v0.7.28.4.4-vc7270023.apk",
+  "version": "0.7.28.4.5",
+  "versionCode": 7270024,
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.4.5/Folia-v0.7.28.4.5-vc7270024.apk",
   "download_mirrors": [
-    "http://43.142.41.178:18080/apk/Folia-v0.7.28.4.4-vc7270023.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.4.4/Folia-v0.7.28.4.4-vc7270023.apk"
+    "http://43.142.41.178:18080/apk/Folia-v0.7.28.4.5-vc7270024.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.7.28.4.5/Folia-v0.7.28.4.5-vc7270024.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "release_tag": "v0.7.28.4.4",
-  "size": 335109270,
-  "notes": "同步上游 dev 3498845d3：修复智能动感与歌词同步在原生播放下的失效、拍点一两秒出结果并压住峰值负载、智能动感分析内存与后台负载下调、修复安卓模组宿主启动崩溃、CI 产物架构校验按实际文件名匹配。"
+  "release_tag": "v0.7.28.4.5",
+  "size": 334870418,
+  "notes": "重打包定制资源：应用图标恢复定制版（白底+黑F，全密度）；分发定制点全量复核通过。上游 dev/main 无新提交，功能与 0.7.28.4.4 一致。"
 }
