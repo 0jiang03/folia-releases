@@ -1,13 +1,13 @@
 {
-  "version": "0.8.28.6",
-  "versionCode": 7270028,
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.6/Folia-v0.8.28.6-vc7270028.apk",
+  "version": "0.8.28.7",
+  "versionCode": 7270029,
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.7/Folia-v0.8.28.7-vc7270029.apk",
   "download_mirrors": [
-    "http://43.142.41.178:18080/apk/Folia-v0.8.28.6-vc7270028.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.6/Folia-v0.8.28.6-vc7270028.apk"
+    "http://43.142.41.178:18080/apk/Folia-v0.8.28.7-vc7270029.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.7/Folia-v0.8.28.7-vc7270029.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "release_tag": "v0.8.28.6",
-  "size": 271553964,
-  "notes": "新增 68 个可视化歌词舞台，全部内置为独立歌词样式，在「歌词样式」里直接左右切换即可，不再需要进设置挑形态；重做开屏动画（唱片旋转→碎成粒子散开→粒子回流拼合成 App 图标）。"
+  "release_tag": "v0.8.28.7",
+  "size": 271554885,
+  "notes": "同步上游 dev 29 个提交：B 站播放、搜索、画质、缓存与后台播放修复；Android 原生命令有序化、装源失败只报一次；blob:/data: 封面不再进原生队列，后台切歌恢复封面；老进程播放状态与节拍缓存可恢复；通知封面与壁纸生成图按目标尺寸解码，避免大图 OOM。"
 }
