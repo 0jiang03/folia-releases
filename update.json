@@ -1,13 +1,13 @@
 {
-  "version": "0.8.28.5",
-  "versionCode": 7270027,
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.5/Folia-v0.8.28.5-vc7270027.apk",
+  "version": "0.8.28.6",
+  "versionCode": 7270028,
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.6/Folia-v0.8.28.6-vc7270028.apk",
   "download_mirrors": [
-    "http://43.142.41.178:18080/apk/Folia-v0.8.28.5-vc7270027.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.5/Folia-v0.8.28.5-vc7270027.apk"
+    "http://43.142.41.178:18080/apk/Folia-v0.8.28.6-vc7270028.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.6/Folia-v0.8.28.6-vc7270028.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "release_tag": "v0.8.28.5",
-  "size": 232745469,
-  "notes": "同步上游 0.8.28.5：人声分离三态（原声/伴奏/人声）、B 站整合完善（搜索/番剧分集/关注粉丝/签名/限时大会员）、MV 背景并入歌词壁纸模式；修复换歌封面不跟随、桌面叠层回抽、节拍取消参数、弹窗回弹及 B 站图床与缓冲问题。移除旧 htdemucs 权重，包体 340MB→222MB。"
+  "release_tag": "v0.8.28.6",
+  "size": 271553964,
+  "notes": "新增 68 个可视化歌词舞台，全部内置为独立歌词样式，在「歌词样式」里直接左右切换即可，不再需要进设置挑形态；重做开屏动画（唱片旋转→碎成粒子散开→粒子回流拼合成 App 图标）。"
 }
