@@ -1,13 +1,13 @@
 {
-  "version": "0.8.28.7",
-  "versionCode": 7270029,
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.7/Folia-v0.8.28.7-vc7270029.apk",
+  "version": "0.8.28.8",
+  "versionCode": 7270030,
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.8/Folia-v0.8.28.8-vc7270030.apk",
   "download_mirrors": [
-    "http://43.142.41.178:18080/apk/Folia-v0.8.28.7-vc7270029.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.7/Folia-v0.8.28.7-vc7270029.apk"
+    "http://43.142.41.178:18080/apk/Folia-v0.8.28.8-vc7270030.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.8/Folia-v0.8.28.8-vc7270030.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "release_tag": "v0.8.28.7",
-  "size": 271554885,
-  "notes": "同步上游 dev 29 个提交：B 站播放、搜索、画质、缓存与后台播放修复；Android 原生命令有序化、装源失败只报一次；blob:/data: 封面不再进原生队列，后台切歌恢复封面；老进程播放状态与节拍缓存可恢复；通知封面与壁纸生成图按目标尺寸解码，避免大图 OOM。"
+  "release_tag": "v0.8.28.8",
+  "size": 284455784,
+  "notes": "同步上游 dev 7 个提交：B 站 MV 视频与音频改为成对缓存，设置页可查看和清除 MV 缓存占用；人声分离结果绑定到所属歌曲，切歌不再串音；原生媒体缓存不可读时直接丢弃，不再无限重试；没有 localStorage 的环境不再崩溃；音频均衡器细节调整。"
 }
