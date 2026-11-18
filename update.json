@@ -1,13 +1,13 @@
 {
-  "version": "0.8.28.11",
-  "versionCode": 7270033,
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.11/Folia-v0.8.28.11-vc7270033.apk",
+  "version": "0.8.28.12",
+  "versionCode": 7270034,
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.12/Folia-v0.8.28.12-vc7270034.apk",
   "download_mirrors": [
-    "http://43.142.41.178/apk/Folia-v0.8.28.11-vc7270033.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.11/Folia-v0.8.28.11-vc7270033.apk"
+    "http://43.142.41.178/apk/Folia-v0.8.28.12-vc7270034.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.12/Folia-v0.8.28.12-vc7270034.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "release_tag": "v0.8.28.11",
-  "size": 284544826,
-  "notes": "同步上游 dev e7e3cb27：修好海报墙双指捏合与松手镜头跳走；新增「禁用 AI 推理」总闸（默认关本地推理，缓解内存闪退）；安卓返回键在搜索页逐层返回；音频分离缓存按歌曲身份区分；另有 lint、设置页 Hook 顺序与测试判据修正。"
+  "release_tag": "v0.8.28.12",
+  "size": 284545182,
+  "notes": "同步上游 dev 8bbc2697（3 个提交）：Bravais 墙面双指缩放真正接上（相机更新不再丢掉捏合倍率，松手不回弹，安卓不再把双指当页面缩放）；补回合并时丢失的墙面缩放接线与返回键交接；随机池归一化改走注册表感知版本，模组样式可正常勾选。"
 }
