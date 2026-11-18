@@ -1,13 +1,13 @@
 {
-  "version": "0.8.28.9",
-  "versionCode": 7270031,
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.9/Folia-v0.8.28.9-vc7270031.apk",
+  "version": "0.8.28.10",
+  "versionCode": 7270032,
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.10/Folia-v0.8.28.10-vc7270032.apk",
   "download_mirrors": [
-    "http://43.142.41.178/apk/Folia-v0.8.28.9-vc7270031.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.9/Folia-v0.8.28.9-vc7270031.apk"
+    "http://43.142.41.178/apk/Folia-v0.8.28.10-vc7270032.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.10/Folia-v0.8.28.10-vc7270032.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "release_tag": "v0.8.28.9",
-  "size": 284540122,
-  "notes": "同步上游 dev 0.7.29.2：新增性能检测窗口；提示浮窗可上滑划走与侧边把手两步开合；修复壁纸叠层页误画视频层、播放器收起态内容闪现、安卓设置崩溃、进度条拖动；安卓包压缩原生库，安装包更小。"
+  "release_tag": "v0.8.28.10",
+  "size": 284539950,
+  "notes": "同步上游 dev 914a5b72：内部重构版本，存储读写统一走 storagePrimitives、清理失效 lint 抑制、废弃手机适配键启动时清理、测试判据修正；界面与功能与 0.8.28.9 一致。"
 }
