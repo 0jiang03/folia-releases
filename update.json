@@ -1,13 +1,13 @@
 {
-  "version": "0.8.28.12",
-  "versionCode": 7270034,
-  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.12/Folia-v0.8.28.12-vc7270034.apk",
+  "version": "0.8.28.13",
+  "versionCode": 7270035,
+  "download_url": "https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.13/Folia-v0.8.28.13-vc7270035.apk",
   "download_mirrors": [
-    "http://43.142.41.178/apk/Folia-v0.8.28.12-vc7270034.apk",
-    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.12/Folia-v0.8.28.12-vc7270034.apk"
+    "http://43.142.41.178/apk/Folia-v0.8.28.13-vc7270035.apk",
+    "https://ghfast.top/https://github.com/0jiang03/folia-releases/releases/download/v0.8.28.13/Folia-v0.8.28.13-vc7270035.apk"
   ],
   "page_url": "https://github.com/0jiang03/folia-releases/releases",
-  "release_tag": "v0.8.28.12",
-  "size": 284545182,
-  "notes": "同步上游 dev 8bbc2697（3 个提交）：Bravais 墙面双指缩放真正接上（相机更新不再丢掉捏合倍率，松手不回弹，安卓不再把双指当页面缩放）；补回合并时丢失的墙面缩放接线与返回键交接；随机池归一化改走注册表感知版本，模组样式可正常勾选。"
+  "release_tag": "v0.8.28.13",
+  "size": 212773102,
+  "notes": "大更新：同步上游 dev fe2f2a86（129 文件，上游 0.7.30.0），首次完整合并 Android 原生层。群像光标启动动画取代原启动动画；安卓界面缩放正式移植（50%~150%）；调音台 DSP 扩展（母带/立体声/限幅）；会话续播与队列恢复加固；封面缓存优先磁盘并退避重试；在线补全与主题生成不再受禁用推理总闸；MV 候选只收 MV/歌词动画；Bravais 捏合与重裁边距修复；APK 体积降至约 203 MB。"
 }
